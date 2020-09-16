@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\bin\Debug\netcoreapp3.1\RNDImageDownloader.exe
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\bin\Debug\netcoreapp3.1\RNDImageDownloader.deps.json
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\bin\Debug\netcoreapp3.1\RNDImageDownloader.runtimeconfig.json
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\bin\Debug\netcoreapp3.1\RNDImageDownloader.runtimeconfig.dev.json
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\bin\Debug\netcoreapp3.1\RNDImageDownloader.dll
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\bin\Debug\netcoreapp3.1\RNDImageDownloader.pdb
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\obj\Debug\netcoreapp3.1\RNDImageDownloader.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\obj\Debug\netcoreapp3.1\RNDImageDownloader.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\obj\Debug\netcoreapp3.1\RNDImageDownloader.AssemblyInfo.cs
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\obj\Debug\netcoreapp3.1\RNDImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\obj\Debug\netcoreapp3.1\RNDImageDownloader.dll
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\obj\Debug\netcoreapp3.1\RNDImageDownloader.pdb
+C:\Users\user\source\repos\RNDImageDownloader\RNDImageDownloader\obj\Debug\netcoreapp3.1\RNDImageDownloader.genruntimeconfig.cache
